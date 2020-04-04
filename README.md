@@ -16,6 +16,18 @@ $ git commit -m "팀에서 정하는 규칙에 따라서 COMMIT 메시지 양식
 $ git commit
 ```
 제목과 본문내용을 규칙에 맞춰 수정한 뒤에 ctrl+c -> :wq!(commit 완료) 만약 commit을 취소할 경우에는 :qa!
+
+## PULL_REQUEST 방식
+
+1. Pullrequest는 왜 필요할까????
+- 팀장이 merge를 할 때 모든사람들의 코드를 하나하나 찾아보고 merge를 하면 힘들겠죠?????
+- pull request를 통해서 코드수정이 된 부분 등을 확인하고 코멘트를 남기면서 확인을 하고 merge를 하면 업무적으로 부담이   덜 해지게되요!!
+
+2. Pullrequest 약속은 어떻게???
+- ex) 제목은 대문자로 시작!!
+- ex) 내용은 50~70자 안으로!!! 
+- ex) 수정된 부분은 명확하게!!
+
 ## HOMEWORK CURRICULUM
 
 | 차시 | 과제명 | 간단한 설명 |
