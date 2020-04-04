@@ -30,3 +30,7 @@ $ git commit
 why? commit 할때 제목, 본문을 자세하게 적어주면 협업에 도움이 되기 때문
 [박준우 블로그] https://junwoo45.github.io/2020-02-06-commit_template/
 
+3. gitflow & branch의 중요성
+[우아한 형제들 기술블로그] 
+https://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html
+
